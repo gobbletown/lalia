@@ -1,0 +1,2 @@
+* Lalia
+A language for designing language model prompts.
