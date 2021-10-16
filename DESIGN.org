@@ -1,0 +1,4 @@
+- prompt text has higher precedence than transformations
+  - It's essentially annotated
+- recursive descent
+  - prompts inside prompts
