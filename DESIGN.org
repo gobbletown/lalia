@@ -5,3 +5,12 @@
 
 This is for prompt templates, which is a far hackier way of building prompts
 than examplary.
+
+* TODO Design a reversible programming language
+It *can* be entirely fictional/imaginary, but I must be be designing it with as
+many features as I can possibly include.
+
+- functional reversibility
+  - Somehow, I need to be able to describe reversibly prompts, even if that
+    process
+  - means prompting for the reverse.
