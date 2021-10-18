@@ -11,9 +11,10 @@ It *can* be entirely fictional/imaginary, but I must be be designing it with as
 many features as I can possibly include.
 
 - functional reversibility
-  - Somehow, I need to be able to describe reversibly prompts, even if that
+  - Somehow, I need to be able to describe reversible prompts, even if that
     process
-  - means prompting for the reverse.
+
+    - http://github.com/semiosis/prompts/blob/master/prompts/generate-textual-transformation-script-4.prompt
 
 - style transfer
   - https://towardsdatascience.com/almost-no-data-and-no-time-unlocking-the-true-potential-of-gpt3-a-case-study-b4710ca0614a
