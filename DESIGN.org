@@ -14,6 +14,7 @@ many features as I can possibly include.
   - Somehow, I need to be able to describe reversible prompts, even if that
     process
 
+    - $PROMPTS/generate-textual-transformation-script-4.prompt
     - http://github.com/semiosis/prompts/blob/master/prompts/generate-textual-transformation-script-4.prompt
 
 - style transfer
