@@ -1,6 +1,5 @@
 * Within my own prompting, I need to implement reversibility ASAP
 - functional reversibility
-  - Somehow, I need to be able to describe reversibly prompts, even if that
+  - Somehow, I need to be able to describe reversible prompts, even if that
     process
   - means prompting for the reverse.
-
